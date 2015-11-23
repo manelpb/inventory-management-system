@@ -1,0 +1,12 @@
+11
+seat,732,4,20,2
+carrier,382,2,20,3
+bottle-cage,730,3,9,1
+water-bottle,832,7,15,1
+trailer,982,1,7,5
+mudguard,329,2,19,2
+cell-holder,932,2,16,5
+gloves,223,5,17,2
+padlock,673,10,30,2
+seat-cover,349,3,10,3
+cup-holder,472,2,8,2
